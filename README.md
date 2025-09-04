@@ -60,25 +60,41 @@ Used DevTools & Lighthouse for performance and accessibility checks.
 🛠️ Skills
 🧪 Testing
 
-Manual, Automated, Smoke, Regression, UI/UX, API
+Types: Manual, Automated, Smoke, Regression, UI/UX, API
 
-🛠️ Tools & Tech
+Documentation: Test Plans, Test Cases, Checklists, Bug Reports, RTM (Requirements Traceability Matrix)
 
+🛠️ Tools & Platforms
 
-
-
-
-
+Defect Tracking & Management
 
 
+API Testing & Automation
 
 
+Browser & Debugging
 
 
+UI/UX Collaboration
 
 
+Mobile Testing
 
 
+Automation
+
+
+💻 Programming & Scripting
+
+Python: Automation scripts, Selenium, API validations.
+
+JavaScript (Postman): Custom assertions for APIs.
+
+📊 Productivity & Documentation
+
+Excel: Test cases, dashboards, RTM, automation with formulas/macros.
+
+Agile/Scrum: Sprint planning, retrospectives, daily stand-ups.
 
 
 📫 Contact Me
